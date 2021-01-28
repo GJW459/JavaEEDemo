@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="person1" class="com.gjw.entity.Person" scope="prototype">
+        <!--set方法初始化 或者构造器初始化bean 默认是单例-->
+        <property name="id" value="123"/>
+        <property name="age" value="18"/>
+        <property name="name" value="郭经伟"/>
+    </bean>
+</beans>

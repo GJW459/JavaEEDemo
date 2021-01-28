@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JDBCDemo/JDBCDemo.iml" filepath="$PROJECT_DIR$/JDBCDemo/JDBCDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaEEDemo.iml" filepath="$PROJECT_DIR$/.idea/JavaEEDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-SpringMVC/Spring-SpringMVC.iml" filepath="$PROJECT_DIR$/Spring-SpringMVC/Spring-SpringMVC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringIOC/SpringIOC.iml" filepath="$PROJECT_DIR$/SpringIOC/SpringIOC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-aop/spring-aop.iml" filepath="$PROJECT_DIR$/spring-aop/spring-aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-data-jdbc/spring-data-jdbc.iml" filepath="$PROJECT_DIR$/spring-data-jdbc/spring-data-jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-mybatis/spring-mybatis.iml" filepath="$PROJECT_DIR$/spring-mybatis/spring-mybatis.iml" />
+    </modules>
+  </component>
+</project>
